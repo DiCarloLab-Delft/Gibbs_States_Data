@@ -2,6 +2,7 @@
 Data supporting findings as reported in arXiv:2012.03895
 
 # Simple snippets to import files with python code:
+Following you may copy some code snippets that will get you started using the data.
 
 ## For csv files:
 
